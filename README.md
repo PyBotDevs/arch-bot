@@ -13,9 +13,9 @@ clone this repo, type `cd arch-bot`. Then type `pip install -r requirements.txt`
 install python from [here](https://python.org). Clone this repo. Open its directory then type `py -m pip -r requirements.txt`
 
 ### How to make it run
-put your **bot token** in [bot.py](../blob/master/bot.py) in last line paste your bot token inside the quotes.
+put your **bot token** in [bot.py](../master/bot.py) in last line paste your bot token inside the quotes.
 
-also paste your **user id** in [bot.py](../blob/master/bot.py) line 52
+also paste your **user id** in bot.py line 52
 
 to run it run this command
 
