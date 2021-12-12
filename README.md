@@ -40,7 +40,8 @@ windows: `py bot.py`
 
 • jokes
 
-*more coming soon*
+• giveaways, polls
+
 
 # Contacts
 
