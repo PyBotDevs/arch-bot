@@ -1,3 +1,6 @@
+<h3 align="center">NOTICE: from 19th July, 2023 onwards, this repository will be under the NKA Development Organization. This bot will still not be updated and will remain as it is.</h3>
+
+
 # arch-bot
 A discord bot written in python
 
